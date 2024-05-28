@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bartu\\OneDrive\\Belgeler\\GitHub\\Form\\KargoTakipProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EBE4F-B5BC-42F2-A697-329D36E24A82}|KargoTakipProjesi.csproj|c:\\users\\bartu\\onedrive\\belgeler\\github\\form\\kargotakipprojesi\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EBE4F-B5BC-42F2-A697-329D36E24A82}|KargoTakipProjesi.csproj|solutionrelative:themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EBE4F-B5BC-42F2-A697-329D36E24A82}|KargoTakipProjesi.csproj|c:\\users\\bartu\\onedrive\\belgeler\\github\\form\\kargotakipprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EBE4F-B5BC-42F2-A697-329D36E24A82}|KargoTakipProjesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EBE4F-B5BC-42F2-A697-329D36E24A82}|KargoTakipProjesi.csproj|c:\\users\\bartu\\onedrive\\belgeler\\github\\form\\kargotakipprojesi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F79EBE4F-B5BC-42F2-A697-329D36E24A82}|KargoTakipProjesi.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemeColor.cs",
+              "DocumentMoniker": "C:\\Users\\bartu\\OneDrive\\Belgeler\\GitHub\\Form\\KargoTakipProjesi\\ThemeColor.cs",
+              "RelativeDocumentMoniker": "ThemeColor.cs",
+              "ToolTip": "C:\\Users\\bartu\\OneDrive\\Belgeler\\GitHub\\Form\\KargoTakipProjesi\\ThemeColor.cs",
+              "RelativeToolTip": "ThemeColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:00:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\bartu\\OneDrive\\Belgeler\\GitHub\\Form\\KargoTakipProjesi\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\bartu\\OneDrive\\Belgeler\\GitHub\\Form\\KargoTakipProjesi\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-28T17:00:45.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bartu\\OneDrive\\Belgeler\\GitHub\\Form\\KargoTakipProjesi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bartu\\OneDrive\\Belgeler\\GitHub\\Form\\KargoTakipProjesi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:50:44.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
